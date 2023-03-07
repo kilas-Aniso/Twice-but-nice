@@ -1,0 +1,161 @@
+
+body{
+    background-color:gainsboro;
+    
+
+
+}
+
+#logo{
+font-size: 60px;
+color:#E80752;
+font-weight: bolder;
+
+
+
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+padding:1px 0;
+margin-top: -5%;
+font-size: 20px;
+
+
+
+}
+nav ul{
+    list-style-type: none;
+    width: 100%;
+    padding-right: 30px;
+    text-align: right;
+    
+
+
+
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 10px;
+
+
+
+
+}
+.background{
+width: 800px;
+height: 700px;
+margin-top: 4%;
+
+
+
+}
+#welcome{
+    margin-left: 50%;
+    margin-top: -55%;
+
+
+
+}
+h1{
+
+color:#E80752;
+}
+#subhead{
+font-weight: bolder;
+
+
+}
+button{
+    border: none;
+    padding: 15px 50px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 8%;
+
+
+}
+#button5{
+    border: none;
+    padding: 15px 50px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 50%;
+
+
+
+
+}
+.photos{
+margin-top: 3%;
+margin-left: 8%;
+
+}
+h2{
+margin-top: 10%;
+text-align: center;
+font-size: 70px;
+color:#E80752;
+}
+.imagees{
+margin-left: 15%;
+
+
+}
+h3{
+margin-left: 20%;
+font-size: 80px;
+margin-top: 2%;
+color: red;
+
+}
+#sawir{
+align-items: center;
+
+}
+
+
+.container{
+    max-width: 900px;
+    margin: auto;
+    
+
+
+}
+
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+    
+
+}
+.footer-col{
+    width: 25%;
+   
+}
+#button2{
+    
+    padding: 15px 70px;
+    color: black;
+    font-weight: bold;
+    justify-content: flex-end;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 30%;
+
+
+}
+
+
+
